@@ -46,9 +46,9 @@
 
           meta = with pkgs.lib; {
             description = "devbox package test"; 
-            homepage = "https://gitlab.com/mr_vinkel/devboxpackage";
+            homepage = "https://github.com/mrvinkel/devboxpackage";
             license = licenses.unlicense;
-            maintainers = with maintainers; [ mr_vinkel ];
+            maintainers = with maintainers; [ mrvinkel ];
           };
         };
       }
